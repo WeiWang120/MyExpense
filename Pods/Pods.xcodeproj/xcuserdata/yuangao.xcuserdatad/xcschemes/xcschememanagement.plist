@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>Pods-MyExpense.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>Pods-MyExpenseTests.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>Pods-MyExpenseUITests.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>084F65BA0FA6C344793E8CE012B67B59</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>0A8C99546B2248A7581627EB0FA2869B</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>34AE1FD352A1C557F350F8AD78B4EE6B</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>4A3D232BC0CBD9858B9C9F6FF825FFF3</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>4F6E0FC060FE6608994AB5F6CF0BD82D</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E041B895BFC910AABCB727B8A475784D</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
